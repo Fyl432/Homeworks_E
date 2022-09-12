@@ -1,0 +1,55 @@
+body {
+	background-color: #F9F2E3;
+}
+
+img {
+	margin:10px
+}
+
+.inner-header{
+	margin-left:30px
+}
+
+.navigation{
+	float: right;
+	list-style: none;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	display: table;
+	margin: 0;
+	width: 100%;
+	height: 3%;
+	}
+
+.navigation li{
+
+    float: none;
+    padding: 0px 20px;
+    background-color: #022A51;
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+	
+}
+ 
+.navigation li:hover{
+
+    background-color: #BADCFF;
+    color: #101010;
+}
+
+.contents{
+	margin-top: 20px;
+	text-indent: 35px;
+	font-size: 16px;
+}
+
+.bottomtext{
+	padding-top: 400px;	
+}
+
+.book-contents{
+	text-indent: 0
+}
